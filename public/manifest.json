@@ -1,3 +1,4 @@
+
 {
   "name": "مساحة",
   "short_name": "مساحة",
@@ -10,6 +11,11 @@
     {
       "src": "https://mesaha-app-blond.vercel.app/icon-192.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://mesaha-app-blond.vercel.app/icon-192.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
