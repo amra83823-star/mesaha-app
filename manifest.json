@@ -1,0 +1,16 @@
+{
+  "name": "تطبيق مساحة للدعم النفسي",
+  "short_name": "مساحة",
+  "description": "مساحتك الآمنة للدردشة والدعم النفسي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
